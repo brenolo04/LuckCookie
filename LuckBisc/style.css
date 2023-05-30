@@ -86,10 +86,10 @@ p {
   background: #FF9500;
   border: none;
   border-radius: .5rem;
+	transition: .3s;	
 }
 
 #btn-reset:hover {
-  transition: .3s;
   cursor: pointer;
   background: #f18d00;
 }
